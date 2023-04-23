@@ -9,5 +9,3 @@ $('.chocolate-box').mouseleave(function(){
 $('.chocolate-box').mouseenter(function(){
     $(this).addClass('animateIt');
 });
-
-// commit
