@@ -111,8 +111,8 @@ audio {
 
 .cover:after {
 position: absolute;
-    content: "Happy Birthday Joshua";
-    color: #1D4658;
+    /* content: "Happy Birthday Joshua";
+    color: #1D4658; */
     font-family: 'Parisienne', cursive;
     font-size: 15px;
     transform: rotateX(180deg);
